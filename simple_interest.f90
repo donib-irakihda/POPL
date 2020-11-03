@@ -21,6 +21,6 @@ program SI
 	
 	sim = (p*t*r)/100
 	
-	print *, "SI = " , sim
+	print *, "the simple interest is  " , sim
 	
 end program
